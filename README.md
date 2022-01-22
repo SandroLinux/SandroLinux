@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandroLinux
 - 👀 I’m interested in Open Source and Free Software and enjoy software in beta 
 - 🌱 I’m currently learning Typescript and Rust
-- 📫 You can contact me at sandro@sandrolinux.com
+- 📫 You can contact me at hello@sandrolinux.com
 - 👏 My favourite web browser is dot browser
 - 🎮 I like playing video games
 <!---
